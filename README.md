@@ -1,5 +1,7 @@
+
+<h2>Hi I am Rithanya R K </h2>
 <details>
-  <h2>Hi I am Rithanya R K </h2>
+
 <summary><b> About Me</b></summary>
 
 <br>
