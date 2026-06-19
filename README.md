@@ -50,10 +50,6 @@ I'm a Frontend Developer passionate about creating intuitive and user-friendly w
 
 🪡 Embroidery Artist
 
-📚 Lifelong Learner
-
-☕ Coffee + Coding
-
 I believe creativity and technology go hand in hand, and my hobbies often inspire my approach to design and problem-solving.
 
 </details>
