@@ -1,4 +1,6 @@
-# Hi, I'm R K Rithanya 👋
+## 📊 GitHub Stats
+
+![Rithanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithanya-rk&show_icons=true&theme=tokyonight)
 
 Frontend Developer | React.js Developer | Next.js Developer
 
