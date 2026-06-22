@@ -32,7 +32,6 @@ I'm a Frontend Developer passionate about creating intuitive and user-friendly w
 * HTML5
 * CSS3
 * Tailwind CSS
-* Bootstrap
 * REST APIs
 * Git & GitHub
 * Figma
